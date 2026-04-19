@@ -1,8 +1,9 @@
 # ChatKom - Aplikasi Chat Modern
-
+# ChatKom v1.0.0 - First Release
 ![ChatKom Logo](assets/img/logo.png)
 
 **ChatKom** adalah aplikasi chat modern berbasis PHP dengan fitur lengkap. Dibuat oleh **Sasskom.app**.
+
 
 ## ✨ Fitur Utama
 

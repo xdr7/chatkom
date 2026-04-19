@@ -1,0 +1,22 @@
+# Konfigurasi sensitif
+includes/config.php
+
+# Upload user
+uploads/*
+!uploads/.gitkeep
+!uploads/default-avatar.png
+
+# Database
+*.sql
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
